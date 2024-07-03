@@ -100,17 +100,17 @@
 
   }
   
-  /* .headerCell.dimension.headerRow {
+   .headerCell.dimension.headerRow {
     background-color: #ccd8e4;
-    border-right: 1px solid #BDC3C7;
+    border-right: 1px solid #f11111;
   }
   .headerCell.pivot.headerRow {
     background-color: #ccd8e4;
-    border-right: 1px solid #BDC3C7;
+    border-right: 1px solid #f11111;
   }
   .headerCell.measure.headerRow {
     background-color: #ccd8e4;
-    border-left: 1px solid #BDC3C7;
+    border-left: 1px solid #f11111;
   } */
   
   .rowCell {
