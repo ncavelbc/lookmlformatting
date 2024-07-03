@@ -1,0 +1,14 @@
+  .reportTable {
+    font-family: Open Sans,Helvetica,Arial,Noto Sans TC, Noto Sans SC,sans-serif;
+    color: #696969;
+    border-collapse: collapse;
+    border-spacing: 3px;
+    table-layout: fixed;
+  }
+  
+  th.headerCell {
+    background-color: #1E2C5B;
+    color: white;
+    padding: 5px;
+    border-bottom: 1px solid #BDC3C7;
+  }
