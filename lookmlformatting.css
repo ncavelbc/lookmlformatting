@@ -1,0 +1,77 @@
+
+  .reportTable {
+    font-family: Open Sans,Helvetica,Arial,Noto Sans TC, Noto Sans SC,sans-serif;
+    color: #f11111;
+    border-collapse: collapse;
+    border-spacing: 3px;
+    table-layout: fixed;
+  }
+  
+  th.headerCell {
+    background-color: #f11111;
+    color: red;
+    padding: 5px;
+    border-bottom: 1px solid #BDC3C7;
+  }
+  
+  .headerCell.dimension {
+    background-color: #1E2C5B;
+    border-right: 1px solid #BDC3C7; 
+    color: white;
+
+  }
+  
+  .headerCell.pivot {
+    background-color: #1E2C5B;
+    border-right: 1px solid #BDC3C7; 
+    color: white;
+
+  }
+  
+  .headerCell.measure {
+    background-color: #1E2C5B;
+    border-left: 1px solid #BDC3C7; 
+    color: white;
+
+  }
+  
+  .headerCell.measure.calculation {
+    background-color: #1E2C5B;
+    border-left: 1px solid #BDC3C7;
+    color: white;
+
+  }
+  
+  .headerCell.transposed.dimension {
+    background-color: #1E2C5B;
+    color: white;
+
+  }
+  
+  .headerCell.transposed.dimension.merged {
+    background-color: #1E2C5B !important;
+    color: white;
+
+  }
+  
+   .headerCell.dimension.headerRow {
+    background-color: #f11111;
+    border-right: 1px solid #f11111;
+  }
+  .headerCell.pivot.headerRow {
+    background-color: #f11111;
+    border-right: 1px solid #f11111;
+  }
+  .headerCell.measure.headerRow {
+    background-color: #ccd8e4;
+    border-left: 1px solid #f11111;
+  } */
+  
+  .rowCell {
+    vertical-align: super;
+    padding-left: 5px;
+    border-bottom: 1px solid #BDC3C7; 
+  }
+
+  
+ 
